@@ -18,6 +18,12 @@ Jarvis is a voice-activated personal assistant developed in Python. It can perfo
   ```
   pip install pyttsx3 speechrecognition webbrowser pyautogui requests google-generativeai
   ```
+## API keys
+Obtain API keys for Weather, News, and Google's Generative AI
+[Weather API]("https://www.weatherapi.com/")
+[News API]("https://newsapi.org/")
+[Goolge API]("https://aistudio.google.com/app/apikey")
+
 
   
   
