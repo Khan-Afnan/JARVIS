@@ -17,7 +17,6 @@ Jarvis is a voice-activated personal assistant developed in Python. It can perfo
 - Required Libraries: Install the necessary libraries using pip
   ```
   pip install pyttsx3 speechrecognition webbrowser pyautogui requests google-generativeai
-
   ```
 
   
