@@ -21,10 +21,40 @@ Jarvis is a voice-activated personal assistant developed in Python. It can perfo
 ## API keys
 Obtain API keys for Weather, News, and Google's Generative AI
 
-[Weather API](https://www.weatherapi.com/)
-[News API](https://newsapi.org/)
-[Google API](https://aistudio.google.com/app/apikey)
+- [Weather API](https://www.weatherapi.com/)
+- [News API](https://newsapi.org/)
+- [Google API](https://aistudio.google.com/app/apikey)
 
+## Installation
+- **Clone the repository**
+  ```
+  git clone https://github.com/Khan-Afnan/JARVIS.git
+  cd JARVIS
+  ```
+- **Install the required libraries**
+- ```
+  pip install -r requirements.txt
+  ```
+- **Add your API Keys**
+
+## Usage
+Run the main script to start Jarvis
+```
+python jarvis.py
+```
+
+## Example Commands
+
+- Open websites: "open YouTube", "open Facebook"
+- Weather updates: "what is the weather in New York"
+- Google search: "google Python programming"
+- News headlines: "read news headlines"
+- Take screenshot: "take a screenshot"
+- Write program: "write a Python program to add two numbers"
+- Quit: "quit", "exit", "terminate"
+
+## Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your improvements
 
   
   
